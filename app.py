@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import math
 
@@ -234,5 +234,4 @@ st.divider()
 st.caption(
     "💰 Ứng dụng tính lãi tiết kiệm | Streamlit"
 )
-```
 
